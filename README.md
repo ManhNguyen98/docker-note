@@ -4,7 +4,7 @@ A simplet notes app built in React. This project was bootstrapped with [Create R
 
 ## Demo
 
-[View demo]()
+[View demo](https://docket-note-demo-123.netlify.app/)
 
 ## Design ideas
 
